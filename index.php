@@ -49,7 +49,7 @@
 		}
 		
 		.content p {
-			font-size:1.5rem;
+			font-size:1.50rem;
 		}
 	</style>
 </head>
