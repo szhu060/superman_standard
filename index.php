@@ -64,7 +64,7 @@
 			
 
 			<div class="content">
-				<h2>A PASSIONATE PIXEL PUNCHING PROBLEM SOLVING PERFECTIONIST...</h2>	
+				<h2>A PASSIONATE PIXEL PUNCHING PROBLEM SOLVING PERFECTIONIST.</h2>	
 				<p>The Design & Art Direction of Brad James.Complete website coming soon.</p>			
 			</div>
 			
